@@ -14,6 +14,8 @@ public class HelloController {
         System.out.println("Hello World");
         System.out.println("Hello World");
         System.out.println("Hello World");
+        System.out.println("git push");
+        System.out.println("git push");
         return ("OK");
     }
 

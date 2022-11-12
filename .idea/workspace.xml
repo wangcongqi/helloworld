@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64edc79a-94e5-4d6c-aee8-6e3f80f6751b" name="Changes" comment="third commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="64edc79a-94e5-4d6c-aee8-6e3f80f6751b" name="Changes" comment="hot-fix commit12">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/helloworld/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/helloworld/controller/HelloController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +50,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="HelloworldApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -94,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668236719976</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hot-fix commit12">
+      <created>1668237749659</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668237749659</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +131,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="third commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
+    <MESSAGE value="hot-fix commit1" />
+    <MESSAGE value="hot-fix commit12" />
+    <option name="LAST_COMMIT_MESSAGE" value="hot-fix commit12" />
   </component>
 </project>
