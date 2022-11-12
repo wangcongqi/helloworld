@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64edc79a-94e5-4d6c-aee8-6e3f80f6751b" name="Changes" comment="hot-fix commit12">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/helloworld/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/helloworld/controller/HelloController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +51,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.gitee.ui.GiteeSettingsConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="HelloworldApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -71,6 +72,7 @@
       <updated>1668159921210</updated>
       <workItem from="1668159922911" duration="1316000" />
       <workItem from="1668235619240" duration="1681000" />
+      <workItem from="1668241306718" duration="1569000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1668236485851</created>
@@ -127,6 +129,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
