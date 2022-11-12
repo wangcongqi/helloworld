@@ -10,6 +10,10 @@ public class HelloController {
     @RequestMapping("")
     public String test() {
         System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
         return ("OK");
     }
 
